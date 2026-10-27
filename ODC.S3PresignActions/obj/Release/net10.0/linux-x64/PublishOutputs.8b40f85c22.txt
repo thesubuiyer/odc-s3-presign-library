@@ -1,0 +1,6 @@
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\bin\Release\net10.0\linux-x64\publish\ODC.S3PresignActions.dll
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\bin\Release\net10.0\linux-x64\publish\ODC.S3PresignActions.deps.json
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\bin\Release\net10.0\linux-x64\publish\ODC.S3PresignActions.pdb
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\bin\Release\net10.0\linux-x64\publish\AWSSDK.Core.dll
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\bin\Release\net10.0\linux-x64\publish\AWSSDK.S3.dll
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\bin\Release\net10.0\linux-x64\publish\OutSystems.ExternalLibraries.SDK.dll

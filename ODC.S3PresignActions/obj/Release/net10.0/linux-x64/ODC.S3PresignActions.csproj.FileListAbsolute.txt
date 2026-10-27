@@ -1,0 +1,12 @@
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\bin\Release\net10.0\linux-x64\ODC.S3PresignActions.deps.json
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\bin\Release\net10.0\linux-x64\ODC.S3PresignActions.dll
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\bin\Release\net10.0\linux-x64\ODC.S3PresignActions.pdb
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\obj\Release\net10.0\linux-x64\ODC.S3PresignActions.csproj.AssemblyReference.cache
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\obj\Release\net10.0\linux-x64\ODC.S3PresignActions.GeneratedMSBuildEditorConfig.editorconfig
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\obj\Release\net10.0\linux-x64\ODC.S3PresignActions.AssemblyInfoInputs.cache
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\obj\Release\net10.0\linux-x64\ODC.S3PresignActions.AssemblyInfo.cs
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\obj\Release\net10.0\linux-x64\ODC.S3PresignActions.csproj.CoreCompileInputs.cache
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\obj\Release\net10.0\linux-x64\ODC.S3PresignActions.dll
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\obj\Release\net10.0\linux-x64\refint\ODC.S3PresignActions.dll
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\obj\Release\net10.0\linux-x64\ODC.S3PresignActions.pdb
+C:\ODC\ExternalLogic\S3PresignedURLs\ODC.S3PresignActions\obj\Release\net10.0\linux-x64\ref\ODC.S3PresignActions.dll
