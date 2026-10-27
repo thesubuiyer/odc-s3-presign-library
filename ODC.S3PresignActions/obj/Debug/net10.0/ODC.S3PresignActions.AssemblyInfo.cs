@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ODC.S3PresignActions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df5810e67c1b988a32534bdf7022a9cbbfe74b50")]
 [assembly: System.Reflection.AssemblyProductAttribute("ODC.S3PresignActions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ODC.S3PresignActions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
